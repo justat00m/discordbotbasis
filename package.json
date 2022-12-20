@@ -1,0 +1,21 @@
+{
+  "name": "gamerz-arena",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "chalk": "^4.1.2",
+    "cute-logs": "^0.0.1",
+    "discord-api-types": "^0.36.3",
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.8.0"
+  }
+}
